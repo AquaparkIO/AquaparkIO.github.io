@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AQUA PARC 2",
+"dataUrl": "9a4722714fff23e158e7265d69ac0f87.unityweb",
+"wasmCodeUrl": "387008e987122e16bdf5ecaad9b4b811.unityweb",
+"wasmFrameworkUrl": "b526990f1bfa84ce911e23eb78ff3c0a.unityweb",
+"asmCodeUrl": "1b9eee19cdf042a87aee22e99249bbfd.unityweb",
+"asmMemoryUrl": "58c10ddeb7ed1299ebfab4491f55b26e.unityweb",
+"asmFrameworkUrl": "c0b7f48464ff4027a68c0bb061748623.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
